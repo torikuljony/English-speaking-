@@ -1,0 +1,32 @@
+* {
+      font-family: "Poppins", sans-serif;
+}
+.font-bangla{
+    font-family: "Hind Siliguri", sans-serif;
+}
+
+/* .input{
+  width:20px;
+  padding:1px;
+  border:1px solid #ccc;   
+  border-radius:10px;
+  
+} */
+/* .input:focus{
+  outline:none;
+  border:1px solid #ddd;
+} */
+
+/* button{
+    
+    background: #5a3df0;
+    color:white ;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 5px;
+} */
+
+.active{
+    background-color: #422AD5;
+    color: wheat;
+}
